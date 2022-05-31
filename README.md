@@ -1,6 +1,6 @@
-# gsw-FR.csv
+# gsw-FR
 
-List of ̣~1000 common french words and their [Alsatian dialect translation](https://en.wikipedia.org/wiki/Alsatian_dialect) (`gsw` ISO 639-2). Feel free to use it in any way you like, in accordance to the GPL-3.0.
+List of ̣~1000 common french words and their [Alsatian dialect translation](https://en.wikipedia.org/wiki/Alsatian_dialect) (`gsw` ISO 639-3). Feel free to use it in any way you like, in accordance to the GPL-3.0.
 
 # Content structure
 
