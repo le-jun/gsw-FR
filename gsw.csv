@@ -1,0 +1,713 @@
+fraSing,gswSing,gswPlu,articleSing,theme
+acheter,kaufe,,,action
+aider,hëlfe,,,action
+aimer,lieb hãn,,,action
+aller,gehn,,,action
+aller à cheval,rite,,,action
+appeler,rüefe,,,action
+arracher,rïsse,,,action
+atteindre,trëffe,,,action
+attraper,fãnge,,,action
+balayer,fäje,,,action
+battre,schlawe,,,action
+bavarder,schwätze,,,action
+boire,trinke,,,action
+boire avec excès,süffe,,,action
+briller,schine,,,action
+briser,brëche,,,action
+caresser,strïche,,,action
+chanter,singe,,,action
+chanter,singe,,,action
+comprendre,verstehn,,,action
+couper,schniide,,,action
+courir,laufe,,,action
+creuser,grãwe,,,action
+cuire au four,bãche,,,action
+cuisiner,koche,,,action
+danser,dãnze,,,action
+défendre,verbiete,,,action
+dessiner,zeichne,,,action
+deviner,rote,,,action
+disparaître,verschwinde,,,action
+donner,gënn,,,action
+dormir,schlofe,,,action
+écrire,schriiwe,,,action
+embrasser,schmutze,,,action
+essuyer,ãbtrickle,,,action
+être assis,sitze,,,action
+être couché,leje,,,action
+être debout,stehn,,,action
+faire,düen,,,action
+filmer,filme,,,action
+foncer,rãse,,,action
+fuir,flichte,,,action
+gagner,gewinne,,,action
+gai,luschtig,,,action
+gonfler,ufpumpe,,,action
+grandir,wãchse,,,action
+gronder,schëlte,,,action
+habiller (s'),sich ãnzeje,,,action
+hésiter,"nitt wisse, wãs mãche",,,action
+heurter,stosse,,,action
+hurler,briele,,,action
+jeter,schmïsse,,,action
+jeter à la poubelle,wëgwërfe,,,action
+jouer,speele,,,action
+laisser,lonn,,,action
+lancer,wërfe,,,action
+laver,wäsche,,,action
+lier,binde,,,action
+lire,lëse,,,action
+manger,ësse,,,action
+manger (animaux),frësse,,,action
+marcher,laufe,,,action
+mesurer,mësse,,,action
+mordre,bïsse,,,action
+mourir,stërwe,,,action
+nager,schwimme,,,action
+naviguer,Schiff fãhre,,,action
+obéir,horiche,,,action
+oublier,vergësse,,,action
+peindre,mole,,,action
+perdre,verliere,,,action
+piquer,stëche,,,action
+pleurer,hile,,,action
+porter,trawe,,,action
+prendre,nëmme,,,action
+propre,süfer,,,action
+puer,stinke,,,action
+quitter,furtgehn,,,action
+récolter,ërne,,,action
+regarder,löje,,,action
+ressembler,glïche,,,action
+rester,bliiwe,,,action
+rire,lãche,,,action
+rouler en véhicule,fãhre,,,action
+s'appeler,heisse,,,action
+s'arrêter,hãlte,,,action
+s'effrayer,verschrecke,,,action
+sale,drëcket,,,action
+sauter,hüpse,,,action
+sauter,springe,,,action
+sentir,schmecke,,,action
+siffler,pfife,,,action
+souffler,blose,,,action
+tirer,zeje,,,action
+tirer un coup de feu,schiesse,,,action
+tomber,fãlle,,,action
+traverser,iwwer d' Stross gehn,,,action
+triste,trürig,,,action
+trouver,finde,,,action
+utiliser,benutze,,,action
+venir,komme,,,action
+visiter,b'süeche,,,action
+voir,sëhn,,,action
+voler,stëhle,,,action
+voler (en avion),flieje,,,action
+bas,nieder,,,adjectif
+grand,grooss,,,adjectif
+haut,hoch,,,adjectif
+jeune,jung,,,adjectif
+neuf,neu,,,adjectif
+petit,klein,,,adjectif
+vieux,àlt,,,adjectif
+abricot,Ãbrikos,,d',alimentation
+asperge,Spãrichel,,d',alimentation
+assiette,Dëller,,de,alimentation
+banane,Banaan,,d',alimentation
+betterave,Rotrãhn,,d',alimentation
+beurre,Butter,,de,alimentation
+bière,Bier,,’s,alimentation
+bouteille,Flàsch,,d’,alimentation
+brasserie,Wirthüs,,'s,alimentation
+café,Kàffee,,de,alimentation
+châtaigne,Kescht,,d',alimentation
+chocolat,Schokolà,,de,alimentation
+couteau,Masser,,’s,alimentation
+cuillère,Leffel,,de,alimentation
+eau,Wàsser,,,alimentation
+épice,Gewirz,,’s,alimentation
+faim,Hùnger,,,alimentation
+farine,Mehl,,’s,alimentation
+fourchette,Gàbel,,d’,alimentation
+fromage,Käs,,de,alimentation
+fromage blanc,"dr Wisskäs, Bibeleskäs",,de,alimentation
+fruit,Obst,,,alimentation
+galette,Eierküeche,,de,alimentation
+gâteau,Küeche,,de,alimentation
+Gruyère,Schwizerkäs,,de,alimentation
+huile d'olive,Oliveel,,’s,alimentation
+jambon,Schunke,,de,alimentation
+jus de fruit,Fruschtsàft,,de,alimentation
+lait,Milch,,d’,alimentation
+légume,Gamias,,,alimentation
+liqueur,Schnàps,,de,alimentation
+louche,Schepfleffel,,de,alimentation
+margarine,Pflànzebùtter,,de,alimentation
+moutarde,Sanft,,de,alimentation
+Munster,Minschterkäs,,de,alimentation
+œuf,Ei,,’s,alimentation
+orge,Gëërscht,,d',alimentation
+pain,Brot,,’s,alimentation
+pâte,Nüdle,,d’,alimentation
+petit-Suisse,Käsel,,’s,alimentation
+poire,Beer,,d',alimentation
+poivre,Pfeffer,,de,alimentation
+sauce,Sos,,d’,alimentation
+sel,Sàlz,,’s,alimentation
+serviette de table,Dischserviett,,d’,alimentation
+soif,Dùrscht,,,alimentation
+soupe,Sùpp,,d’,alimentation
+sucette,Süssettel,,'s,alimentation
+tasse,Tàss,,d’,alimentation
+thé,Tee,,de,alimentation
+tonneau,Fãss,,'s,alimentation
+verre,Glàs,,’s,alimentation
+viande,Fleisch,,,alimentation
+vin rouge/blanc,Rotwin / Wisswin,,de,alimentation
+vinaigre,Essig,,de,alimentation
+yaourt,Yaurt,,de,alimentation
+barbe,Bàrt,,’s,anatomie
+bouche,Mül,,’s,anatomie
+bras,Àrm,Ärm,de,anatomie
+cheveu,Hoor,,’s,anatomie
+cheville,Kneschel,,’s,anatomie
+cœur,Hàrz,,’s,anatomie
+cou,Hàls,,de,anatomie
+coude,Eleböje,,de,anatomie
+cuisse,Schenkel,,de,anatomie
+dent,Zàhn,Zähn,de,anatomie
+doigt,Finger,,de,anatomie
+dos,Buckel,,de,anatomie
+épaule,Àchsel,Achsle,d’,anatomie
+estomac,Maawe,,de,anatomie
+fesse,Àrschbàcke,,de,anatomie
+foie,Läwwer,,d’,anatomie
+front,Stirn,,d’,anatomie
+genou,Knej,,’s,anatomie
+intestin,Dàrm,Därm,de,anatomie
+jambe,Bein,,’s,anatomie
+joue,Bàcke,,de,anatomie
+langue,Zung,,d’,anatomie
+lèvre,Lippe,Lippen,d’,anatomie
+main,Hànd,Händ,d’,anatomie
+moustache,Schnüzer,Schnizer,de,anatomie
+muscle,Muschkel,Muschkle,de,anatomie
+nez,Nàs,,d’,anatomie
+œil,Auw,Auwe,’s,anatomie
+oreille,Ohr,Ohre,’s,anatomie
+orteil,Zeh,,de,anatomie
+os,Knoche,,de,anatomie
+peau,Hüt,,d’,anatomie
+pied,Füess,Fiess,de,anatomie
+poitrine,Bruscht,Brischt,d’,anatomie
+pouce,Düme,,de,anatomie
+poumon,Lung,Lunge,d’,anatomie
+rein,Nier,Niere,d’,anatomie
+sang,Blüet,,’s,anatomie
+tête,Kopf,,de,anatomie
+ventre,Büch,,de,anatomie
+abeille,Imm,Imme,d’,animal
+agneau,Làmm,,’s,animal
+aigle,Ãdler,,de,animal
+âne,Esel,,de,animal
+anguille,Ãal,,de,animal
+araignée,Spinn,Spinne,d’,animal
+autruche,Vöjelstrüss,,de,animal
+baleine,Wãlfisch,,de,animal
+belette,Wissele,,'s,animal
+bœuf,Oks,,de,animal
+bouc,Geissbock,,de,animal
+brochet,Hecht,,de,animal
+canard,Ent,,d',animal
+cerf,Hirsch,,de,animal
+chat,Katz,,d’,animal
+cheval,Ross,,'s,animal
+chèvre,Geiss,,d’,animal
+chien,Hund,,de,animal
+chouette,Ill,,d',animal
+cigogne,"Storik, Schtork",,de,animal
+coccinelle,Herrgottskäferle,,'s,animal
+cochon,Söj,,d’,animal
+coq,Güler,,de,animal
+crapaud,Krott,,de,animal
+cygne,Schwan,,de,animal
+dauphin,Delfin,,de,animal
+dindon,Walschgüller,,de,animal
+dragon,Drãche,,de,animal
+dromadaire,Kãmel,,'s,animal
+écureuil,Eichhäsel,,’s,animal
+éléphant,Elefãnt,,de,animal
+escargot,Schneck,Schnecke,d’,animal
+faisan,Fàsàn,,de,animal
+fourmi,Ãmeis,,d’,animal
+gazelle,Rehgeiss,,d’,animal
+grenouille,Frosch,,de,animal
+guêpe,Waschpa,,d’,animal
+hérisson,Söi-Ejel,,de,animal
+héron,Fischreijer,,de,animal
+hibou,Ill,,d’,animal
+hippopotame,Nilpfërd,,’s,animal
+hirondelle,Schwälmele,,’s,animal
+jument,Mahra,,d’,animal
+kangourou,Kãnguru,,’s,animal
+lapin,Kengàla,,’s,animal
+lézard,Eidächsla,,’s,animal
+libellule,Wãsserjumpfer,,d’,animal
+lièvre,Hãs,,de,animal
+loup,Volf,,de,animal
+luciole,Zindwirmel,,’s,animal
+mouche,Muck,Mucke,d’,animal
+mouette,Mööf,,d',animal
+moule,Muschel,,d',animal
+moustique,Schnok,Schnocke,d’,animal
+mouton,Hãmmel,,de,animal
+nageoire,Flosse,,de,animal
+niche,Hundehiisel,,'s,animal
+nid,Nescht,,'s,animal
+oie,Gàns,,d’,animal
+otarie,Seeleeb,,de,animal
+ours,Bààr,,de,animal
+paon,Pfoohàhn,,de,animal
+papillon,Pfifholter,,de,animal
+perdrix,Feldhiehnel,,’s,animal
+pigeon,Düb,,d',animal
+poule,Hüehn,,'s,animal
+queue,Wãddel,,de,animal
+rat,Ràtt,Ràtte,d’,animal
+renard,Fuks,,de,animal
+requin,Haifisch,,de,animal
+ruche,Immekorb,,de,animal
+sabot,Holzschüeh,,de,animal
+sanglier,Wildsöj,,d',animal
+sardine,Sãrdinel,,'s,animal
+sauterelle,Heischräck,,d’,animal
+serpent,Schlàng,Schlànge,d’,animal
+souris,Müs,,d',animal
+taupe,Mülwëlfer,,de,animal
+taureau,Schtier,,de,animal
+vache,Küh,,d',animal
+vautour,Geier,,de,animal
+veau,Kalb,,’s,animal
+ver,Wurm / Wirm,,de,animal
+yack,Berriochs,,de,animal
+zèbre,Zebrã,,'s,animal
+année,Johr,,’s,chronologie
+après,nooch,,,chronologie
+après-demain,iwwermorje,,,chronologie
+après-midi,Noochmiddàà,,de,chronologie
+aujourd’hui,Hita,,,chronologie
+automne,Herbscht,,de,chronologie
+avant,vor,,,chronologie
+avant-hier,vorgescht,,,chronologie
+Bonne année !,E glicklichs Nejs!,,,chronologie
+calendrier,Kàlender,,de,chronologie
+de temps en temps,dànn und wànn,,de,chronologie
+demain,Morn / Morja,,,chronologie
+depuis,sither,,,chronologie
+dimanche,Sùnntig,,,chronologie
+été,Sùmmer,,de,chronologie
+heure,"Stund, Ür",,d’,chronologie
+hier,Geschtert,,,chronologie
+hiver,Winter,,de,chronologie
+jamais,"nimmeh, nimmi",,,chronologie
+jeudi,Donnerstig,,,chronologie
+jour,Dàj,,de,chronologie
+Joyeux anniversaire !,Fiel Glick züem Geburtsdàg!,,,chronologie
+lundi,Mantig,,,chronologie
+maintenant,jetz,,,chronologie
+mardi,Zischtig,,,chronologie
+matin,Morje,,de,chronologie
+mercredi,Mittwoch,,,chronologie
+midi,Middàà,,de,chronologie
+minuit,Mitternàcht,,,chronologie
+minute,Minüt,,d’,chronologie
+mois,Monet,,de,chronologie
+nuit,Nàcht,,d’,chronologie
+parfois,àls,,’s,chronologie
+printemps,Friaihjohr,,’s,chronologie
+quand,wenn,,,chronologie
+saison,Johrzit(e),,d’,chronologie
+samedi,Samschtig,,,chronologie
+seconde,Sékond,,d’,chronologie
+semaine,Wuch,,d’,chronologie
+siècle,Johrhundert,,’s,chronologie
+soir,Owed,,de,chronologie
+souvent,efters,,,chronologie
+temps,Zitt,,,chronologie
+toujours,immer,,,chronologie
+tout le temps,àllewil,,,chronologie
+vacance,Feriezit,,d’,chronologie
+vendredi,Fritig,,,chronologie
+blanc,wiss,,,couleur
+bleu,blàui,,,couleur
+brun,brün,,,couleur
+couleur,Fàrwa,,,couleur
+gris,gröi,,,couleur
+jaune,gaal,,,couleur
+noir,schwàrz,,,couleur
+rouge,rot,,,couleur
+vert,grian,,,couleur
+À bientôt,Bis bàll,,,expression
+Au revoir,àdje,,,expression
+Beaucoup,Fil,,,expression
+Bonjour,buschur,,,expression
+Bonne nuit,güeta Nàcht,,,expression
+Combien ?,Vifil?,,,expression
+Comment ?,Vi?,,,expression
+Comment ça va  ?,Wie geht's ?,,,expression
+Merci,Merci,,,expression
+non,nai,,,expression
+Où ?,Vo? Vu?,,,expression
+oui,ja,,,expression
+Parce que…,Vàje ...,,,expression
+Pourquoi ?,Ferom?,,,expression
+Quand ?,Vàn?,,,expression
+Quel ?,Vèler?,,,expression
+Qui ?,Vèèr?,,,expression
+Quoi ?,Vàs?,,,expression
+S’il vous plaît,Wenn s bàliabt,,,expression
+Salutation (après-midi),güater Dàj,,,expression
+Salutation (matin),güata Morga,,,expression
+Salutation (soir),güete-n-Owe,,,expression
+ami,Frìnd,,de,famille
+bébé,Bubbele,,'s,famille
+cousin,"Kussä, Küssä",,de,famille
+cousine,"Kussin, Küssin",,d’,famille
+enfant,Kìnd,Kinder,’s,famille
+être humain,Mensch,,de,famille
+famille,Fàmilli,,d’,famille
+femme,Fràui,,d’,famille
+fille (de),Doochter,,d’,famille
+"fille, fillette","Maidla, Maidel",,’s,famille
+fils,Sohn,,de,famille
+frère,Brüeder,,de,famille
+garçon,Bü,,de,famille
+grand-mère,Grossmàme,,de,famille
+grand-parent,Grosseltere,,d’,famille
+grand-père,Grossbàbe,,de,famille
+homme,Mànn,,de,famille
+jumeau,Zwilìng,Zwilinga,de,famille
+"mère, maman","Müater, Màme",,d’,famille
+oncle,Unkel,,de,famille
+parent,Eltere,,d’,famille
+"père, papa","Vàter, Bàbe",,de,famille
+sœur,Schweschter,,d’,famille
+tante,Dànte,,d’,famille
+voisin,Nochber,,de,famille
+bar à bière,Biarschtub,,d’,geographie
+bar à vin,Wi(n)schtub,,d’,geographie
+bibliothèque,Bibliothek,,d’,geographie
+boulangerie,Beckerej,,d’,geographie
+boutique,Làde,,de,geographie
+café,Baitza,,d’,geographie
+centre-ville,Stàdtzentrum,,’s,geographie
+champ,Ãcker,,de,geographie
+château,Schloss,,’s,geographie
+château,Burri,,d',geographie
+chemin,Wäj,,de,geographie
+cinéma,Kino,,’s,geographie
+cinéma,Kinnes,,de,geographie
+clocher,Kirichdurm,,de,geographie
+colline,Buckel,,de,geographie
+désert,Wüüschte,,d',geographie
+direction,Richtùng,,,geographie
+droite,rachts,,,geographie
+école,Schüel,,d’,geographie
+église,Kerch,,d’,geographie
+gare,Bàhn,,d’,geographie
+gauche,links,,,geographie
+hôpital,Spitàl,,’s,geographie
+hôtel,Hotel,,’s,geographie
+île,Insel,,d’,geographie
+lande,Heid,,d’,geographie
+librairie,Büachhàndlung,,d’,geographie
+magasin,Gschaft,,’s,geographie
+magasin,G’schäft,,’s,geographie
+mairie,Mairerie,,d’,geographie
+maison,Hüs,Hieser,’s,geographie
+marché (de Noël),"(Christkindels)marik, Markt",,de,geographie
+mer,Meer,,’s,geographie
+monument,Dënkmãl,,’s,geographie
+pharmacie,Apotéék,,d’,geographie
+plage,Strãnd,,de,geographie
+restaurant,Restaurant,,’s,geographie
+rive,Ufer,,'s,geographie
+rocher,Felse,,de,geographie
+route,Strass,,d’,geographie
+rue,Schtros,,d’,geographie
+rue,Gàss,,d’,geographie
+ruelle,Gàss,,d’,geographie
+salle de classe,Schüalklàssa,,d’,geographie
+théâtre,Théàter,,’s,geographie
+tourner,drahja,,,geographie
+tout droit,gràd üss,,,geographie
+vague,Wëll,,d',geographie
+village,Dorf,,’s,geographie
+village,Dorf,,’s,geographie
+ville,Stàdt,,d’,geographie
+anneau,Ring,,de,habillement
+bas,Strémpf,,de,habillement
+bijou,Schmuck,,de,habillement
+boucle d'oreille,Ohreringel,Ohreringle,’s,habillement
+ceinture,Girtel,,de,habillement
+chapeau,Hüet,,de,habillement
+chaussette,Schossetel,,’s,habillement
+chaussure,Schüeh,,de,habillement
+chemise,Hemd,,’s,habillement
+chemisier,Bliisel,,’s,habillement
+costume,Tràcht,,,habillement
+cravate,Kràvàtt,,d’,habillement
+gant,Händschi,,de,habillement
+jupe,Schüpp,,de,habillement
+lunette,Brill,Brille,d’,habillement
+maillot de bain,Bàdhosa,,,habillement
+manteau,Màntel,,de,habillement
+panier,Korb,,de,habillement
+pantalon,Hose,,d’,habillement
+pantoufle,Schlàppe,,de,habillement
+porte-monnaie,Geldsàck,,de,habillement
+robe,Dàmekleid,,’s,habillement
+sac,Sàck,,de,habillement
+sac à dos,Rucksàck,,de,habillement
+slip,Unterhesle,,d’,habillement
+slip,Unterhessle,,d',habillement
+sous-vêtement,Unterwäsch,,d’,habillement
+uniforme,Üniform,,d',habillement
+vêtement,Kleid,,’s,habillement
+affiche,Plãkãt,,'s,maison
+argent,Gald,,’s,maison
+armoire,Kãschte,,de,maison
+arrosoir,Spranz,,d',maison
+aspirateur,Staubsüger,,de,maison
+bague,Ring,,de,maison
+baignoire,Bàdwànna,,d’,maison
+balance,Wööj,,d',maison
+balcon,Balcon,,de,maison
+balle,Bãlle,,de,maison
+boussole,Kompãss,,de,maison
+brosse,Birscht,,d,maison
+brosse à cheveux,Hoorbirscht,,d’,maison
+brosse à dents,Zàhnbirscht,,d’,maison
+cabane du jardin,Gàrtahisla,Gàrtahisel,’s,maison
+cave,Kaller,,de,maison
+chaise,Schtüehl,,de,maison
+chambre,Schlofzìmmer,,’s,maison
+clef,Schlessel,,de,maison
+congélateur,Tiafkiahler,,de,maison
+couloir,Hüsgàng,,de,maison
+crayon,Bläiwiss,,'s,maison
+cuisine,Kucha,,d’,maison
+dé,Wirfel,,de,maison
+dentifrice,Zàhnpaschta,,d’,maison
+douche,Duscha,,d’,maison
+drapeau,Fãhne,,de,maison
+échelle,Leiter,,d',maison
+entonnoir,Trëëchter,,de,maison
+épée,Sãwel,,de,maison
+éponge,Schwumm,,de,maison
+épuisette,Filosch,,’s,maison
+escalier,Schtaga,,d’,maison
+exercice,Iwung,,d’,maison
+fauteuil,Sassel,,de,maison
+fenêtre,Fanschter,,’s,maison
+fer à repasser,Bejlise,,’s,maison
+feu,Firr,,’s,maison
+fil,Fãde,,de,maison
+four,(Bàch)Ofa,,de,maison
+fusil,Flint,,de,maison
+girouette,Wëtterfahnel,,’s,maison
+grenier,Behna,,d’,maison
+hache,Ãx,,d’,maison
+harmonica,Schnuffelrutsch,,d’,maison
+interrupteur,Schãlter,,de,maison
+jardin,Gàrta,,de,maison
+jet d'eau,Springbrunne,,de,maison
+jouet,Spielding,,’s,maison
+jumelles,Fernglãs,,’s,maison
+lampe,Làmpa,,d’,maison
+landau,Kinderkütsch,,d’,maison
+lit,Bett,,’s,maison
+livre,Büach,,’s,maison
+louche,Schepfleffel,,de,maison
+loupe,Vergreeserungsglãs,,’s,maison
+maison,Hüs,,’s,maison
+marteau,Hãmmer,,de,maison
+meuble,Meevel,,d’,maison
+miroir,"Schpiagel, Schpiajel",,de,maison
+montre,Ühr,,d’,maison
+mur,Müra,,d’,maison
+nœud,Knopf,,de,maison
+oreiller,Kopfekisse,,'s,maison
+panier,Korb,,de,maison
+papier toilette,Kabineepapier,,’s,maison
+parapluie,Bãrãbli,,de,maison
+parfum,Parfum,,de,maison
+peigne,dr Schtrahl,,de,maison
+pipe,Pfiff,,d',maison
+portail,Tor,,’s,maison
+porte,Te(e)ra,,d’,maison
+poubelle,Drackaimer,,de,maison
+radio,Radio,,'s,maison
+râteau,Rëche,,de,maison
+réfrigérateur,Iskàschta,,de,maison
+réveil-matin,Wecker,,de,maison
+rideau,Umhàng,,de,maison
+robinet,Wãsserhãhn,,de,maison
+sac,Sãck,,de,maison
+salle à manger,Asszìmmer,,’s,maison
+salle de bain,Bàdzìmmer,,’s,maison
+salle de séjour,Wohnzìmmer,,’s,maison
+savon,Saifa,,d’,maison
+scie,Säj,,d',maison
+serrure,Schloss,,’s,maison
+serviette,Hàndtüach,,’s,maison
+shampoing,Schãmpu,,de,maison
+sifflet,Pfif,,d',maison
+table,Dìsch,,de,maison
+tambour,Trummel,,d',maison
+tapis,Teppig,,de,maison
+téléphone,Telefon,,'s,maison
+télévision,Tele,,d’,maison
+terrasse,Terras,,d’,maison
+toilettes,Kabinè,,’s,maison
+toit,Dàch,,’s,maison
+tondeuse à gazon,Rãsemäjer,,de,maison
+tournevis,Schrüwezejer,,de,maison
+trompette,Trumpet,,d',maison
+urne,Ürn,,d',maison
+xylophone,Xylofon,,'s,maison
+étoile,Stërn,,de,meteo
+lune,Mond,,de,meteo
+neige,Schnee,,de,meteo
+nuage,Wolik,,d',meteo
+pluie,Raje,,de,meteo
+soleil,Sunn,,d',meteo
+vent,Wind,,de,meteo
+aviateur,Fliejer,,de,metier
+boucherie,Metz,,d',metier
+boulanger,Beck,,de,metier
+boulangerie,Beckerej,,d',metier
+coiffeur,Koifeur,,de,metier
+cuisinier,Koch,,de,metier
+dentiste,Tsânârzt,,de,metier
+école,Schüal(a),,d’,metier
+"écolier, étudiant",Schialer,,de,metier
+élève,Schüelbüe,Schieler,de,metier
+infirmière,Krànkeschwester,,d’,metier
+instituteur,Lehrer,,de,metier
+institutrice,Schüelmàmsell,,d’,metier
+maîtresse d'école,Schüelmãmsell,,d’,metier
+"marchand, vendeur","Hàndler, Verkàjfer",,de,metier
+médecin,Dokter,,de,metier
+pêcheur,Fischer,,de,metier
+cent,hundert,,,nombre
+cinq,finfa,,,nombre
+cinquante,fufzig,,,nombre
+deux,zwei,,,nombre
+dix,zehna,,,nombre
+dix-huit,àchtzehn,,,nombre
+dix-neuf,niinzehn,,,nombre
+dix-sept,siwwezehn,,,nombre
+douze,zwelf,,,nombre
+huit,àcht,,,nombre
+mille,döisig,,,nombre
+neuf,niin,,,nombre
+onze,elf,,,nombre
+quarante,vierzig,,,nombre
+quatorze,vierzehn,,,nombre
+quatre,vier,,,nombre
+quatre-vingt,àchtzig,,,nombre
+quatre-vingt-dix,niinzig,,,nombre
+quinze,fufzehn,,,nombre
+seize,sächzehn,,,nombre
+sept,siwwe,,,nombre
+six,sechs,,,nombre
+soixante,sächzig,,,nombre
+soixante-dix,siwwezig,,,nombre
+treize,drittzehn,,,nombre
+trente,drissig,,,nombre
+trois,drej,,,nombre
+un,eins,,,nombre
+vingt,zwànzig,,,nombre
+aéroport,Flugplàtz,,de,transport
+autobus,Autobüs,,de,transport
+automobile,Auto,,’s,transport
+autoroute,Autobàhn,,d’,transport
+bagage,Gepäck,,’s,transport
+barque,Schiffele,,'s,transport
+bateau,Schiff,,'s,transport
+bicyclette,Fàhrràd,,’s,transport
+camion,Kamion,,de,transport
+chemin,Pfàd,,de,transport
+chemin de fer,Isebàhn,,d’,transport
+essence,Benzin,,’s,transport
+fusée,Rãkeet,,d’,transport
+fusée,Ràket,,d’,transport
+gare,"Bàhnhof, Gaar",,de,transport
+hélicoptère,"Hubschrüwer, Helikopter",,de,transport
+klaxon,Hüp,,d’,transport
+luge,Schlitte,,de,transport
+moto,Motorràd,,’s,transport
+navire,Schiff,,’s,transport
+paquebot,Dãmpfer,,de,transport
+piéton,Füassgànger,,de,transport
+port,Hàfe,Häfe,de,transport
+roue,Ràd,Räder,’s,transport
+route,"Stross, Schtross",,d’,transport
+station d'essence,Tànkschtella,,d’,transport
+train,Zug,Zig,de,transport
+trottinette,Trottinettel,,’s,transport
+valise,Koffer,,de,transport
+vélo,Velo,,’s,transport
+voie,"Wäj, Wag",,de,transport
+voilier,Sejelschiff,,'s,transport
+voiture,Wawe,,de,transport
+voyage,Reis,,d’,transport
+wagon,Isebãhnwawe,,de,transport
+(patate) frite,Pomfritt,,d’,vegetal
+ail,Knowli,,de,vegetal
+arbre,Baum,,de,vegetal
+artichaut,Artischo,,d’,vegetal
+artichaut,Artischo,,de,vegetal
+asperge,Spàrichel,Spàrichle,d’,vegetal
+aubergine,Eierpflànz,,d’,vegetal
+avocat,Àdvokàt,Àdvokàte,de,vegetal
+betterave,Rotrüeb,Rotrüewe,d’,vegetal
+bleuet,Kornblüem,,d',vegetal
+bruyère,Heidekrüt,,'s,vegetal
+carotte,Gälleriewel,Gälleriewle,’s,vegetal
+céleri,Zellri,,de,vegetal
+champignon,Schwammle,,d’,vegetal
+chou,"Krüt, Kehl",,’s,vegetal
+chou-fleur,Blüemkehl,,’s,vegetal
+concombre,Gàgummer(e),,d’,vegetal
+courge,Kìrbs(a),,d’,vegetal
+échalote,Schàlott(e),,d’,vegetal
+endive,Schikoree-Sàlàt,,d’,vegetal
+épinard,Spinàt,,’s,vegetal
+fève,Soïbohne,,d’,vegetal
+gland,Eichel,,d’,vegetal
+gui,Mischt,,d’,vegetal
+haricot,Bohn(e),,d’,vegetal
+iris,Schwërtlilje,,d’,vegetal
+laitue,"Kopfsàlàt, Làtti",,de,vegetal
+légume,Gemies,,’s,vegetal
+lentille,Lins(e),,d’,vegetal
+maïs,Welschkorn,,’s,vegetal
+maïs,Walschkorn,,de,vegetal
+navet,Rüeb,Rüewe,d’,vegetal
+oignon,Ziwwel,,d’,vegetal
+persil,Peterle,,de,vegetal
+petit pois,Erbsel,Erbsle,’s,vegetal
+poireau,Lauch,,de,vegetal
+pomme de terre,Grumbeer(e),,d’,vegetal
+radis,Radig,,de,vegetal
+raisin,Triiwel,,de,vegetal
+riz,Ris,,de,vegetal
+rose,Ros,,d',vegetal
+roseaux,Schilf,,'s,vegetal
+salade,Sàlàt,,de,vegetal
+tomate,Tomàt(e),,d’,vegetal
+tomate,Tomãtt,,d',vegetal
+tulipe,Tülipã,,d',vegetal
