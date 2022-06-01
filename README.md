@@ -12,6 +12,10 @@ The csv file contains words compiled from multiple sources and is structured by 
 * articleSing – singular gender article in alsatian
 * theme – word arbitrary theme for classification
 
+# To Do
+
+An IPA table has been added for a future "gswIPA" additional field. Doing it manually would be tedious and I’m looking for a way to automate the process.
+
 # Completion
 
 As any "living" language, this list is but a snippet and there are many more including new words and regional variations. On that matter, words were arbitrarly compiled from many sources without regard to regional variations and may thus be lack uniformity. If you have any experience on that matter, feel free to contribute by adding words, fields or anything you deem interesting.
