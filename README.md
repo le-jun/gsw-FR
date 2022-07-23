@@ -1,3 +1,15 @@
+# Give Up GitHub
+
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+
+You can now find this project at [https://codeberg.org/lejun/gsw-FR](https://codeberg.org/lejun/gsw-FR) instead.
+
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
 # gsw-FR
 
 List of ̣~1000 common french words and their [Alsatian dialect translation](https://en.wikipedia.org/wiki/Alsatian_dialect) (`gsw` ISO 639-3). Feel free to use it in any way you like, in accordance to the GPL-3.0.
